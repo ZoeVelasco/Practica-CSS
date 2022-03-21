@@ -1,0 +1,166 @@
+*{
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Shippori Antique B1', sans-serif;
+    font-weight: bold;
+}
+body{
+    /body {width: 100%;} #container{width: 80%;}
+    overflow-x: hidden;
+}
+
+.navegacion{
+    display: flex;
+    flex-direction: row;
+}
+.titulo{
+    margin-left: 150px;
+    margin-right: 250px;
+    font-size: 30px;
+    color: rgb(21, 70, 231);
+}
+.subtitulo{
+    margin-top: 30px;
+    margin-left: 50px;
+    font-size: 20px;
+    color: rgb(68, 67, 67);
+}
+.btnInicio{
+    margin-right: 100px;
+    margin-left: 50px;
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    margin-top: 20px;
+    background-color: rgb(21, 70, 231);
+    color: white;
+    border-radius: 5px;
+    box-shadow: 5px  5px 50px rgba(21, 70, 231, 0.459); 
+    border-style: none;
+}
+/*Estilo del bloque 2 (Información)*/
+.titulo2{
+    margin-left: 150px;
+    margin-right: 250px;
+    font-size: 35px;
+    color: rgb(11, 11, 83);
+}
+.descripcion2{
+    margin-top: 30px;
+    margin-left: 150px;
+    font-size: 18px;
+    color: rgb(68, 67, 67);
+} 
+.info1{
+    margin-top: 100px;
+    margin-left: 150px;
+    width: 320px;
+    height: 250px;
+    box-shadow: 5px  5px 50px rgba(198, 207, 240, 0.459); 
+    border-radius: 10px;
+    padding-top: 10px;
+}
+.infotitulo{
+    color: rgb(11, 11, 83);
+    font-size: 25px;
+    margin-left: 20px;
+}
+.infodes{
+    color: rgb(68, 67, 67);
+    font-size: 16px;
+    margin-left: 20px;
+}
+.info2{
+    margin-top: -260px;
+    margin-left: 480px;
+    width: 320px;
+    height: 250px;
+    box-shadow: 5px  5px 50px rgba(21, 70, 231, 0.459); 
+    border-radius: 10px;
+    padding-top: 10px;
+}
+.info3{
+    margin-top: -260px;
+    margin-left: 810px;;
+    width: 320px;
+    height: 250px;
+    box-shadow: 5px  5px 50px rgba(198, 207, 240, 0.459); 
+    border-radius: 10px;
+    padding-top: 10px;
+
+}
+.info4{
+    margin-top: -260px;
+    margin-left: 1140px;
+    width: 320px;
+    height: 250px;
+    box-shadow: 5px  5px 50px rgba(198, 207, 240, 0.459); 
+    border-radius: 10px;
+    padding-top: 10px;
+
+}
+.iconinfo{
+    background-color: rgba(53, 98, 245, 0.39); 
+    width: 30px;
+    height: 30px;
+    margin-left: 50px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.bloque2{
+    margin-bottom: 100px;
+}
+/*Pie de página*/
+footer{
+    margin-top: 200px;
+    background-color: #e0edff;
+    margin-bottom: -200px;
+    margin-left: -10px;
+    margin-right: -10px;
+    height: 400px;
+}
+.piePagina{
+    margin-left: 200px;
+    padding-top:50px;
+}
+.titulopie{
+    color: rgb(21, 70, 231);
+}
+.subpie{
+    color: rgb(68, 67, 67);
+    margin-top: 50px;
+}
+.derecho{
+    color: rgb(68, 67, 67);
+    margin-top: 150px;
+    margin-left: 200px;
+    padding-bottom: 30px;
+}
+.titulosub{
+    color: rgb(11, 11, 83);
+}
+.sub{
+    color: rgb(68, 67, 67);
+}
+.about{
+    margin-top: -315px;
+    margin-left: 850px;
+}
+.company{
+    margin-top: -145px;
+    margin-left: 1040px;
+}
+.support{
+    margin-top: -150px;
+    margin-left: 1250px;
+}
+.termino{
+    color: rgb(68, 67, 67);
+    margin-top: 127px;
+    margin-left: 1050px;
+}
+.politica{
+    color: rgb(68, 67, 67);  
+    margin-top: -35px;
+    margin-left: 1250px;
+}
